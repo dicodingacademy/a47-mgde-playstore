@@ -1,4 +1,4 @@
-# a47-mgde-playstore
+# Menjadi Game Developer Expert
 
 Repositori ini berisi project Modul 11 yang ada di Academy Menjadi Game Developer Expert. Untuk beralih ke project yang lain, Anda bisa memilih project pada menu branch.
 
